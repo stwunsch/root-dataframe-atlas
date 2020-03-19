@@ -8,3 +8,9 @@ Go here to run the notebooks on Binder:
 Or go here if you have a CERN account:
 
 [![Open in SWAN](https://img.shields.io/badge/Open%20in%20-%E2%98%81%20SWAN-orange.svg)](https://cern.ch/swanserver/cgi-bin/go/?projurl=https://github.com/stwunsch/root-dataframe-atlas.git)
+
+## Higgs to four leptons
+
+The notebooks [HiggsToFourLeptons.ipynb](HiggsToFourLeptons.ipynb) studies the decay of the Standard Model Higgs boson to two Z bosons and subsequently to four leptons. The selection leads to a narrow invariant mass peak on top a relatively smooth and small background, revealing the Higgs at 125 GeV.
+
+![](HiggsToFourLeptons.png)
